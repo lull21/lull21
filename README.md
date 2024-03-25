@@ -1,16 +1,15 @@
-### Hi there 👋
+# About me 👋
 
-<!--
-**lull21/lull21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**lull21/lull21** is a ✨ _special_ ✨ repository.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+- 🔭 I’m currently studying on Xidian University
+- 🌱 I’m currently learning FPGA and Java
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with XinlinxRFsoc-Sivers'EVK
+- 💬 Ask me about Xidian or Xinlinx RFsoc
+- 📫 How to reach me: lzhangxd21@gmail.com
+- 😄 Pronouns: OpenSource
+- ⚡ Fun fact: Lakers Nation!
+
