@@ -13,3 +13,5 @@
 - 😄 Pronouns: OpenSource
 - ⚡ Fun fact: Lakers Nation!
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lull21)
+
